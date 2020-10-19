@@ -1,3 +1,5 @@
 local1
-local2
+local2 from local branch
 local3
+local4 from branch
+local5 from local branch
